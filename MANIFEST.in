@@ -1,0 +1,7 @@
+include COPYING README.txt requirements.txt
+
+recursive-include icons_mimetypes *.py
+recursive-include icons_mimetypes *.png
+recursive-exclude icons_mimetypes/tests *.py
+
+recursive-exclude icons_dev *.py

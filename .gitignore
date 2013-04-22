@@ -1,0 +1,7 @@
+*.pyc
+.coverage
+.venv
+README.html
+dist/
+django_icons_mimetypes.egg-info/
+htmlcov
